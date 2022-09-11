@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.goryudyuma.horizontalstripeszoom.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.goryudyuma.horizontalstripeszoom.MyBundle
 
 class MyApplicationService {
 
